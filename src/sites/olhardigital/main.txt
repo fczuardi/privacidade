@@ -15,3 +15,5 @@ olhardigital.uol.com.br###conteudo > .texto > .link-forum
 olhardigital.uol.com.br###conteudo > .horizontal.bloco-conteudos.bloco
 olhardigital.uol.com.br###barra_bottom
 olhardigital.uol.com.br###rodape
+olhardigital.uol.com.br###conteudo > .superior.barra
+olhardigital.uol.com.br###conteudo > .inferior.barra
