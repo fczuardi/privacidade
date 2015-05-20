@@ -1,0 +1,233 @@
+! 3rd party
+! ------------------------------------------------------------------------------
+
+facebook.com/connect
+connect.facebook.net
+static.addtoany.com
+barrasassine.abril.com.br
+unear.net
+gravatar.com
+widgets.twimg.com
+platform.tumblr.com
+platform.twitter.com/widgets
+redditstatic.com/button
+zunnit.com
+assets.adobedtm.com
+userdmp.com
+adobe_tracking.js
+linkedin.com/countserv
+widgets.pinterest.com/*count
+cdn.api.twitter.com/*/count
+apis.google.com**plusone
+apis.google.com*client:plus
+plus.google.com*client:plus
+googletagservices.com
+
+
+! Buzzfeed
+! ------------------------------------------------------------------------------
+
+! scripts
+buzzfed.com/*.js
+@@buzzfed.com/static/js/General_concat_footer.js
+@@buzzfed.com/static/js/General_concat_header.js
+@@buzzfed.com/static/js/prototype/prototype.1.7-compact.js
+
+! images
+buzzfed.com/*/campaign_images/
+buzzfeed.com/*/campaign_images/
+buzzfed.com/*/global/
+
+! dom
+buzzfeed.com##.page-footer-wrapper
+buzzfeed.com###responses
+buzzfeed.com###.normal_reactions
+buzzfeed.com###social-actions
+buzzfeed.com###.Column2
+buzzfeed.com###hot-buzz-stats
+buzzfeed.com###new-header-hot-nav
+buzzfeed.com###header_wrapper
+buzzfeed.com###buzz_sub_buzz > .buzz_superlist_item > .sub_buzz_content > .bf_dom.share-box
+buzzfeed.com###page_container > .section.page-content.PageContent > .Column2
+buzzfeed.com###related-links
+
+
+! Estadão
+! ------------------------------------------------------------------------------
+
+! scripts
+estadao.com.br/*.js
+
+! images
+estadao.com.br/estadao/img/
+estadao.com.br/paywall/
+img.estadao.com.br/fotos3/
+estadao.com.br/*.jpg
+
+! styles
+estadao.com.br/*.css
+@@estadao.com.br/estadao/css/noticia.css
+@@estadao.com.br/estadao/css/style.css
+
+! dom
+estadao.com.br##.headermain
+estadao.com.br##.tools
+estadao.com.br##.sub
+estadao.com.br##.widgets
+estadao.com.br##.relacionadastexto
+estadao.com.br##.footermain
+estadao.com.br##.assine
+
+
+! Folha
+! ------------------------------------------------------------------------------
+
+! scripts
+folha.uol.com.br/**aside
+folha.com.br/*aside
+
+! images
+folha.com.br/livraria
+f.i.uol.com.br
+@@f.i.uol.com.br/folha/colunas/images
+
+! dom
+folha.uol.com.br###top
+folha.uol.com.br##.menu2.container > .span4
+folha.uol.com.br##.menu2.container > .row > .span4
+folha.uol.com.br##.menu2.container > .row > .span12 > .row > .span4
+folha.uol.com.br##.menu2.container > .row > .span12 > .row > .span8 > .toolbar
+folha.uol.com.br##.menu2.container > .row > .span12 > .row > .span8 > .article.ads-livrariadafolha
+folha.uol.com.br##.menu2.container > .row > .span16 > .section-masthead
+folha.uol.com.br###footer
+
+
+! Jornal O Globo / G1
+! ------------------------------------------------------------------------------
+
+! scripts
+glbimg.com/*.js
+api.globovideos.com/*callback/
+globo.com/*.js
+js.og.infg.com.br
+@@glbimg.com/*jquery/
+@@videos.globo.com
+
+! dom
+oglobo.globo.com###sticker
+oglobo.globo.com##.titulo-editoria
+oglobo.globo.com##.publicidade
+oglobo.globo.com##.box-vejaTambem
+oglobo.globo.com##.em-destaque
+oglobo.globo.com##.footer
+oglobo.globo.com##footer
+oglobo.globo.com##.navegacao
+oglobo.globo.com##.mais-lidas
+oglobo.globo.com##.editorias
+oglobo.globo.com##.links-institucionais
+
+g1.globo.com###glb-cabecalho
+g1.globo.com###glb-corpo > .glb-conteudo > .glb-bloco > .glb-grid-4
+g1.globo.com###glb-diretorio
+g1.globo.com###glb-rodape
+g1.globo.com###glb-materia .widget-veja-tambem
+
+
+! Terra
+! ------------------------------------------------------------------------------
+
+trrsf.com
+trrsf.com.br
+
+! images
+@@trrsf.com*/image/
+
+! styles
+@@trrsf.com.br**core.css
+
+! dom
+tecnologia.terra.com.br###post-navigation
+tecnologia.terra.com.br###trr-ctn-content > .trr-holder > .col-aside
+tecnologia.terra.com.br###trr-navbar-footer
+tecnologia.terra.com.br###trr-ctn-content > .ctn-tgm-bottom-holder
+
+
+! The Verge
+! ------------------------------------------------------------------------------
+
+ooyala.com/*/similar/assets
+95.211.106.41
+
+! scripts
+player.ooyala.com/*.js
+
+! html
+player.ooyala.com/*.html
+
+
+! Twitter
+! ------------------------------------------------------------------------------
+
+ton.twimg.com
+twitter.com/i/cards**advertiser_name
+
+! xhr
+twitter.com/i/trends
+twitter.com/i/users/recommendations
+
+
+! UOL
+! ------------------------------------------------------------------------------
+
+! scripts
+jsuol.com.br/*.js
+uol.com.br/*.js
+
+! images
+imguol.com/avatars
+imguol.com/c/noticias/
+n.i.uol.com.br
+
+! dom
+uol.com.br##header
+uol.com.br###menu-geral
+uol.com.br###.composto.com-destaque
+uol.com.br###.erro-e-comentar
+uol.com.br###.comentarios
+uol.com.br###menu-estacao
+uol.com.br##footer
+uol.com.br###topo-colunas3
+uol.com.br##header > .botoes
+
+
+! Veja
+! ------------------------------------------------------------------------------
+
+abril.com.br/complementos-materias
+
+! scripts
+abril.com.br/*.js
+
+! html
+abril.com.br/widgets
+apis.google.com*abril.com.br
+
+! images
+abril.com.br/images/
+abril.com.br/assets/
+abril.com.br/v2010
+abril.com.br/_estrutura
+@@abril.com.br/v2010/includes/wordpress/
+
+! styles
+abril.com.br/stylesheets/
+abril.com.br/svc/
+
+! dom
+veja.abril.com.br##.noindex
+veja.abril.com.br###barra-abril
+veja.abril.com.br###header
+veja.abril.com.br###sidebar
+veja.abril.com.br###widgetVeja
+
+

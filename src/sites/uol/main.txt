@@ -1,0 +1,22 @@
+! UOL
+! ------------------------------------------------------------------------------
+
+! scripts
+jsuol.com.br/*.js
+uol.com.br/*.js
+
+! images
+imguol.com/avatars
+imguol.com/c/noticias/
+n.i.uol.com.br
+
+! dom
+uol.com.br##header
+uol.com.br###menu-geral
+uol.com.br###.composto.com-destaque
+uol.com.br###.erro-e-comentar
+uol.com.br###.comentarios
+uol.com.br###menu-estacao
+uol.com.br##footer
+uol.com.br###topo-colunas3
+uol.com.br##header > .botoes

@@ -1,0 +1,24 @@
+! 3rd party
+! ------------------------------------------------------------------------------
+
+facebook.com/connect
+connect.facebook.net
+static.addtoany.com
+barrasassine.abril.com.br
+unear.net
+gravatar.com
+widgets.twimg.com
+platform.tumblr.com
+platform.twitter.com/widgets
+redditstatic.com/button
+zunnit.com
+assets.adobedtm.com
+userdmp.com
+adobe_tracking.js
+linkedin.com/countserv
+widgets.pinterest.com/*count
+cdn.api.twitter.com/*/count
+apis.google.com**plusone
+apis.google.com*client:plus
+plus.google.com*client:plus
+googletagservices.com

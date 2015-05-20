@@ -1,0 +1,11 @@
+! The Verge
+! ------------------------------------------------------------------------------
+
+ooyala.com/*/similar/assets
+95.211.106.41
+
+! scripts
+player.ooyala.com/*.js
+
+! html
+player.ooyala.com/*.html

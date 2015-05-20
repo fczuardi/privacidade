@@ -1,0 +1,26 @@
+! Buzzfeed
+! ------------------------------------------------------------------------------
+
+! scripts
+buzzfed.com/*.js
+@@buzzfed.com/static/js/General_concat_footer.js
+@@buzzfed.com/static/js/General_concat_header.js
+@@buzzfed.com/static/js/prototype/prototype.1.7-compact.js
+
+! images
+buzzfed.com/*/campaign_images/
+buzzfeed.com/*/campaign_images/
+buzzfed.com/*/global/
+
+! dom
+buzzfeed.com##.page-footer-wrapper
+buzzfeed.com###responses
+buzzfeed.com###.normal_reactions
+buzzfeed.com###social-actions
+buzzfeed.com###.Column2
+buzzfeed.com###hot-buzz-stats
+buzzfeed.com###new-header-hot-nav
+buzzfeed.com###header_wrapper
+buzzfeed.com###buzz_sub_buzz > .buzz_superlist_item > .sub_buzz_content > .bf_dom.share-box
+buzzfeed.com###page_container > .section.page-content.PageContent > .Column2
+buzzfeed.com###related-links

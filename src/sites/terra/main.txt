@@ -1,0 +1,17 @@
+! Terra
+! ------------------------------------------------------------------------------
+
+trrsf.com
+trrsf.com.br
+
+! images
+@@trrsf.com*/image/
+
+! styles
+@@trrsf.com.br**core.css
+
+! dom
+tecnologia.terra.com.br###post-navigation
+tecnologia.terra.com.br###trr-ctn-content > .trr-holder > .col-aside
+tecnologia.terra.com.br###trr-navbar-footer
+tecnologia.terra.com.br###trr-ctn-content > .ctn-tgm-bottom-holder

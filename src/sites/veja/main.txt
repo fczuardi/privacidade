@@ -1,0 +1,29 @@
+! Veja
+! ------------------------------------------------------------------------------
+
+abril.com.br/complementos-materias
+
+! scripts
+abril.com.br/*.js
+
+! html
+abril.com.br/widgets
+apis.google.com*abril.com.br
+
+! images
+abril.com.br/images/
+abril.com.br/assets/
+abril.com.br/v2010
+abril.com.br/_estrutura
+@@abril.com.br/v2010/includes/wordpress/
+
+! styles
+abril.com.br/stylesheets/
+abril.com.br/svc/
+
+! dom
+veja.abril.com.br##.noindex
+veja.abril.com.br###barra-abril
+veja.abril.com.br###header
+veja.abril.com.br###sidebar
+veja.abril.com.br###widgetVeja

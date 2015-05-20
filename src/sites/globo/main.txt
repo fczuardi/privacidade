@@ -1,0 +1,29 @@
+! Jornal O Globo / G1
+! ------------------------------------------------------------------------------
+
+! scripts
+glbimg.com/*.js
+api.globovideos.com/*callback/
+globo.com/*.js
+js.og.infg.com.br
+@@glbimg.com/*jquery/
+@@videos.globo.com
+
+! dom
+oglobo.globo.com###sticker
+oglobo.globo.com##.titulo-editoria
+oglobo.globo.com##.publicidade
+oglobo.globo.com##.box-vejaTambem
+oglobo.globo.com##.em-destaque
+oglobo.globo.com##.footer
+oglobo.globo.com##footer
+oglobo.globo.com##.navegacao
+oglobo.globo.com##.mais-lidas
+oglobo.globo.com##.editorias
+oglobo.globo.com##.links-institucionais
+
+g1.globo.com###glb-cabecalho
+g1.globo.com###glb-corpo > .glb-conteudo > .glb-bloco > .glb-grid-4
+g1.globo.com###glb-diretorio
+g1.globo.com###glb-rodape
+g1.globo.com###glb-materia .widget-veja-tambem

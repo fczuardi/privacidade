@@ -1,0 +1,9 @@
+! Twitter
+! ------------------------------------------------------------------------------
+
+ton.twimg.com
+twitter.com/i/cards**advertiser_name
+
+! xhr
+twitter.com/i/trends
+twitter.com/i/users/recommendations

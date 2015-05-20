@@ -1,0 +1,25 @@
+! Estadão
+! ------------------------------------------------------------------------------
+
+! scripts
+estadao.com.br/*.js
+
+! images
+estadao.com.br/estadao/img/
+estadao.com.br/paywall/
+img.estadao.com.br/fotos3/
+estadao.com.br/*.jpg
+
+! styles
+estadao.com.br/*.css
+@@estadao.com.br/estadao/css/noticia.css
+@@estadao.com.br/estadao/css/style.css
+
+! dom
+estadao.com.br##.headermain
+estadao.com.br##.tools
+estadao.com.br##.sub
+estadao.com.br##.widgets
+estadao.com.br##.relacionadastexto
+estadao.com.br##.footermain
+estadao.com.br##.assine
