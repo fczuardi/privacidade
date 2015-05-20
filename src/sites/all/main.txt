@@ -48,6 +48,9 @@ redditstatic.com/button
 ! gravatar
 gravatar.com
 
+! meerkat
+meerkatapp.co/btn
+
 ! web notifications
 goroost.com/roostjs
 

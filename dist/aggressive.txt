@@ -48,6 +48,9 @@ redditstatic.com/button
 ! gravatar
 gravatar.com
 
+! meerkat
+meerkatapp.co/btn
+
 ! web notifications
 goroost.com/roostjs
 
@@ -191,6 +194,24 @@ info.abril.com.br##.interna.page-container.main-container > .main-content-post.m
 info.abril.com.br##.interna.page-container.main-container > .main-content-post.main-content.col-md-9 > .leia-mais
 info.abril.com.br##.interna.page-container.main-container > .main-content-post.main-content.col-md-9 > .comentarios-facebook
 info.abril.com.br##footer
+
+! Mashable
+! ------------------------------------------------------------------------------
+
+! js
+mshcdn.com/*.js
+
+! image
+mshcdn.com/assets/*.png
+
+! dom
+mashable.com###sticky
+mashable.com###post-head
+mashable.com###body > .flex-box > .sidebar.box-cell
+mashable.com###story > .article-header > .social.shares
+mashable.com###post-content > .limit-comments.article-comments
+mashable.com###more-in-channel
+mashable.com###site-footer-wrapper
 
 ! Olhar Digital (UOL)
 ! ------------------------------------------------------------------------------
