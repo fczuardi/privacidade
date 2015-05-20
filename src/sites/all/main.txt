@@ -57,6 +57,9 @@ goroost.com/roostjs
 ! br
 templates.buscape.com
 mediakit.com.br
+powermarketing.com
+amazonaws.com/web/static/visitor/scripts/pm.bootstrapper.js
+amazonaws.com/web/static/visitor/scripts/xrtml
 
 ! unknown
 static.addtoany.com

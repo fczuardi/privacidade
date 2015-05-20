@@ -57,6 +57,9 @@ goroost.com/roostjs
 ! br
 templates.buscape.com
 mediakit.com.br
+powermarketing.com
+amazonaws.com/web/static/visitor/scripts/pm.bootstrapper.js
+amazonaws.com/web/static/visitor/scripts/xrtml
 
 ! unknown
 static.addtoany.com
@@ -173,6 +176,30 @@ g1.globo.com###glb-diretorio
 g1.globo.com###glb-rodape
 g1.globo.com###glb-materia .widget-veja-tambem
 
+
+! IG
+! ------------------------------------------------------------------------------
+
+! js
+statig.com.br/*.js
+
+! img
+statig.com.br/sass-canais/*.png
+statig.com.br/noticias
+statig.com.br/webmail
+statig.com.br/busca
+statig.com.br/selos-agencias
+
+! css
+statig.com.br/css/shopping
+
+! dom
+economia.ig.com.br###header
+economia.ig.com.br###barra-lateral
+economia.ig.com.br###botoes
+economia.ig.com.br###tags
+economia.ig.com.br###extra-content
+economia.ig.com.br###inner-footer
 
 ! Info (UOL)
 ! ------------------------------------------------------------------------------
