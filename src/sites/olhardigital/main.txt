@@ -1,0 +1,17 @@
+! Olhar Digital (UOL)
+! ------------------------------------------------------------------------------
+
+!images
+olhardigital.uol.com.br/olhar2013/imagens
+olhardigital.uol.com.br/uploads/*_150_95.
+olhardigital.uol.com.br/uploads/*_86_55.
+
+
+! dom
+olhardigital.uol.com.br###barra
+olhardigital.uol.com.br###topo
+olhardigital.uol.com.br###direita
+olhardigital.uol.com.br###conteudo > .texto > .link-forum
+olhardigital.uol.com.br###conteudo > .horizontal.bloco-conteudos.bloco
+olhardigital.uol.com.br###barra_bottom
+olhardigital.uol.com.br###rodape
