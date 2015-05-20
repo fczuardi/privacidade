@@ -9,6 +9,7 @@ facebook.com/plugins/
 edge-chat.facebook.com/ping?
 
 ! google
+apis.google.com/js/platform.js
 google.com/js/bg
 apis.google.com**plusone
 apis.google.com*client:plus
@@ -169,6 +170,27 @@ g1.globo.com###glb-diretorio
 g1.globo.com###glb-rodape
 g1.globo.com###glb-materia .widget-veja-tambem
 
+
+! Info (UOL)
+! ------------------------------------------------------------------------------
+
+! js
+cloudfront.net/dell-widget
+
+! img
+revista.info.abril.com.br/*/capa.jpg
+info.abril.com.br/2015/images/
+
+! html
+info.abril.com.br/*.shtml?embed=s
+
+! dom
+info.abril.com.br##.navbar-inverse.navbar
+info.abril.com.br##.interna.page-container.main-container > .sidebar-content-post.sidebar-content.col-md-3
+info.abril.com.br##.interna.page-container.main-container > .main-content-post.main-content.col-md-9 > .post-eorgcontent > .wrap-texto-social > .social-left-container.col-md-1
+info.abril.com.br##.interna.page-container.main-container > .main-content-post.main-content.col-md-9 > .leia-mais
+info.abril.com.br##.interna.page-container.main-container > .main-content-post.main-content.col-md-9 > .comentarios-facebook
+info.abril.com.br##footer
 
 ! Olhar Digital (UOL)
 ! ------------------------------------------------------------------------------
