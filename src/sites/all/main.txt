@@ -6,8 +6,10 @@ facebook.com/connect
 connect.facebook.net
 graph.facebook.com
 facebook.com/plugins/
+edge-chat.facebook.com/ping?
 
 ! google
+google.com/js/bg
 apis.google.com**plusone
 apis.google.com*client:plus
 plus.google.com*client:plus
@@ -19,6 +21,10 @@ linkedin.com/countserv
 linkedin.com/cws/
 linkedin.com/uas/
 static.licdn.com/scds/concat/common/js
+
+! disqus
+disqus.com
+disquscdn.com
 
 ! twitter
 platform.twitter.com/widgets
@@ -40,6 +46,9 @@ redditstatic.com/button
 
 ! gravatar
 gravatar.com
+
+! web notifications
+goroost.com/roostjs
 
 ! br
 templates.buscape.com

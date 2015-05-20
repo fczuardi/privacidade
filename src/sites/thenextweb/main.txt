@@ -1,0 +1,21 @@
+! The Next Web
+! ------------------------------------------------------------------------------
+
+! js
+thenextweb.com/*/?cf_action=sync_comments
+tnwcdn.com/*.js
+
+! img
+tnwcdn.com/*-220x*.*
+tnwcdn.com/*-520x*.*
+thenextweb.com/*-520x*
+thenextweb.com/*/themes/icetea/lemonsoda/img/
+tnwcdn.com/*/themes/icetea/lemonsoda/img/
+
+! dom
+thenextweb.com###top
+thenextweb.com###comments
+thenextweb.com##.footer
+thenextweb.com###main > .l-postSingle--canvas.l-postSingle > .l-postSingle-wrap > .l-postSingle-content > .l-postSingle-content-main > .js_articleShare.articleShare.l-postSingle-content-main-share
+thenextweb.com###main > .l-postSingle--canvas.l-postSingle > .l-postSingle-wrap > .l-postSingle-content > .sidebar.l-postSingle-content-sidebar
+thenextweb.com###main > .l-postSingle--canvas.l-postSingle > .l-postSingle-wrap > .l-postSingle-content > .l-postSingle-content-main > .relatedPosts

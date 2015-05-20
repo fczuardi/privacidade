@@ -6,8 +6,10 @@ facebook.com/connect
 connect.facebook.net
 graph.facebook.com
 facebook.com/plugins/
+edge-chat.facebook.com/ping?
 
 ! google
+google.com/js/bg
 apis.google.com**plusone
 apis.google.com*client:plus
 plus.google.com*client:plus
@@ -19,6 +21,10 @@ linkedin.com/countserv
 linkedin.com/cws/
 linkedin.com/uas/
 static.licdn.com/scds/concat/common/js
+
+! disqus
+disqus.com
+disquscdn.com
 
 ! twitter
 platform.twitter.com/widgets
@@ -40,6 +46,9 @@ redditstatic.com/button
 
 ! gravatar
 gravatar.com
+
+! web notifications
+goroost.com/roostjs
 
 ! br
 templates.buscape.com
@@ -196,6 +205,29 @@ tecnologia.terra.com.br###post-navigation
 tecnologia.terra.com.br###trr-ctn-content > .trr-holder > .col-aside
 tecnologia.terra.com.br###trr-navbar-footer
 tecnologia.terra.com.br###trr-ctn-content > .ctn-tgm-bottom-holder
+
+
+! The Next Web
+! ------------------------------------------------------------------------------
+
+! js
+thenextweb.com/*/?cf_action=sync_comments
+tnwcdn.com/*.js
+
+! img
+tnwcdn.com/*-220x*.*
+tnwcdn.com/*-520x*.*
+thenextweb.com/*-520x*
+thenextweb.com/*/themes/icetea/lemonsoda/img/
+tnwcdn.com/*/themes/icetea/lemonsoda/img/
+
+! dom
+thenextweb.com###top
+thenextweb.com###comments
+thenextweb.com##.footer
+thenextweb.com###main > .l-postSingle--canvas.l-postSingle > .l-postSingle-wrap > .l-postSingle-content > .l-postSingle-content-main > .js_articleShare.articleShare.l-postSingle-content-main-share
+thenextweb.com###main > .l-postSingle--canvas.l-postSingle > .l-postSingle-wrap > .l-postSingle-content > .sidebar.l-postSingle-content-sidebar
+thenextweb.com###main > .l-postSingle--canvas.l-postSingle > .l-postSingle-wrap > .l-postSingle-content > .l-postSingle-content-main > .relatedPosts
 
 
 ! The Verge
