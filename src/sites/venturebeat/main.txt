@@ -1,0 +1,24 @@
+! VentureBeat
+! ------------------------------------------------------------------------------
+
+! js
+vbstatic.co/*.js
+venturebeat.com/*.js
+!netdna-cdn.com/*/jquery/ui
+netdna-cdn.com/*/plugins/*.js
+@@netdna-cdn.com/*/plugins/vb-lazy-load
+netdna-cdn.com/*/vbnews/lib
+@@netdna-cdn.com/*/vbnews/lib/vb-frontend.js
+
+! img
+vbstatic.co/assets/*.png
+venturebeat.com/*-widget.png
+venturebeat.wpengine.com/*-widget.png
+@@vbstatic.co/assets/img/*.png
+
+! dom
+venturebeat.com##.navbar-static-top.navbar-default.navbar
+venturebeat.com##.site-header.container
+venturebeat.com###secondary
+venturebeat.com##.entry-wrapper > .entry-header > .clearfix.entry-meta
+venturebeat.com###the_footer

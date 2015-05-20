@@ -1,1 +1,12 @@
+* addthis.com * block
+* amazon-adsystem.com * block
+* connect.facebook.net * block
 * google-analytics.com * block
+* linkedin.com * block
+
+* outbrain.com * block
+* perfectaudience.com * block
+* quantserve.com * block
+* segment.io * block
+* gigya.com * block
+* ec2linkis.s3.amazonaws.com * block
