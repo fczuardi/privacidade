@@ -1,0 +1,23 @@
+! Valor Econômico
+! ------------------------------------------------------------------------------
+
+! js
+valor.com.br/*.js
+!valor.com.br/*/valor_performance
+!valor.com.br/*/valor_helper
+!valor.com.br/*/js/
+
+! images
+valor.com.br/*/themes/
+valor.com.br/*/valor_pecas_assinaturas
+valor.com.br/sites/default/*.jpg
+@@valor.com.br/*/themes/basic/css/img/page.png
+
+! css
+valor.com.br/*.css
+@@valor.com.br/*/css/css_
+
+! dom
+valor.com.br###header
+valor.com.br###sitewide-nav
+valor.com.br###footer
