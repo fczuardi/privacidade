@@ -335,13 +335,23 @@ uol.com.br/*.js
 imguol.com/avatars
 imguol.com/c/noticias/
 n.i.uol.com.br
+imguol.com/*_80x80.jpg
+img.uol.com.br/_template/v1/*.png
+forum.imguol.com/*.gif
+
+! css
+jsuol.com.br/c/_template/v1/*.css
+uol.com.br/module/gera-modulos/*.css
 
 ! dom
 uol.com.br##header
 uol.com.br###menu-geral
-uol.com.br###.composto.com-destaque
 uol.com.br###.erro-e-comentar
+uol.com.br###.composto.com-destaque
 uol.com.br###.comentarios
+uol.com.br###conteudo-principal > .erro-e-comentar
+uol.com.br###conteudo-principal > .comentarios
+uol.com.br###conteudo-principal > .composto.com-destaque
 uol.com.br###menu-estacao
 uol.com.br##footer
 uol.com.br###topo-colunas3
