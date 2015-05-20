@@ -2,6 +2,7 @@
 ! ------------------------------------------------------------------------------
 
 abril.com.br/complementos-materias
+barrasassine.abril.com.br
 
 ! scripts
 abril.com.br/*.js
