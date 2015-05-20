@@ -1,24 +1,52 @@
 ! 3rd party
 ! ------------------------------------------------------------------------------
 
+! facebook
 facebook.com/connect
 connect.facebook.net
 graph.facebook.com
+facebook.com/plugins/
+
+! google
 apis.google.com**plusone
 apis.google.com*client:plus
 plus.google.com*client:plus
 googletagservices.com
+
+! linkedin
+platform.linkedin.com
+linkedin.com/countserv
+linkedin.com/cws/
+linkedin.com/uas/
+static.licdn.com/scds/concat/common/js
+
+! twitter
 platform.twitter.com/widgets
 cdn.api.twitter.com/*/count
-platform.tumblr.com
-widgets.pinterest.com/*count
-redditstatic.com/button
-linkedin.com/countserv
+widgets.twimg.com
+
+! adobe
 assets.adobedtm.com
 adobe_tracking.js
+
+! tumblr
+platform.tumblr.com
+
+! pinterest
+widgets.pinterest.com/*count
+
+! reddit
+redditstatic.com/button
+
+! gravatar
+gravatar.com
+
+! br
+templates.buscape.com
+mediakit.com.br
+
+! unknown
 static.addtoany.com
 unear.net
-gravatar.com
-widgets.twimg.com
 zunnit.com
 userdmp.com
