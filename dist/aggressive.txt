@@ -71,7 +71,8 @@ powermarketing.com
 amazonaws.com/web/static/visitor/scripts/pm.bootstrapper.js
 amazonaws.com/web/static/visitor/scripts/xrtml
 
-! unknown
+! other
+chartbeat.com
 static.addtoany.com
 unear.net
 zunnit.com
