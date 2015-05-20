@@ -9,6 +9,7 @@ facebook.com/plugins/
 edge-chat.facebook.com/ping?
 
 ! google
+apis.google.com/js/platform.js
 google.com/js/bg
 apis.google.com**plusone
 apis.google.com*client:plus
