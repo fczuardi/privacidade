@@ -9,6 +9,7 @@ facebook.com/plugins/
 edge-chat.facebook.com/ping?
 
 ! google
+google.com/recaptcha
 apis.google.com/js/platform.js
 google.com/js/bg
 apis.google.com**plusone
@@ -63,6 +64,12 @@ meerkatapp.co/btn
 
 ! web notifications
 goroost.com/roostjs
+
+! stumbleupon
+platform.stumbleupon.com
+
+! hulu
+config.hulu.com
 
 ! br
 templates.buscape.com

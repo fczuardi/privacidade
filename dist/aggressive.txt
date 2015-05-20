@@ -9,6 +9,7 @@ facebook.com/plugins/
 edge-chat.facebook.com/ping?
 
 ! google
+google.com/recaptcha
 apis.google.com/js/platform.js
 google.com/js/bg
 apis.google.com**plusone
@@ -64,6 +65,12 @@ meerkatapp.co/btn
 ! web notifications
 goroost.com/roostjs
 
+! stumbleupon
+platform.stumbleupon.com
+
+! hulu
+config.hulu.com
+
 ! br
 templates.buscape.com
 mediakit.com.br
@@ -79,6 +86,27 @@ unear.net
 zunnit.com
 userdmp.com
 
+
+! Brasil Post (Huffington post)
+! ------------------------------------------------------------------------------
+
+! js
+huffpost.com/*.js
+
+! img
+assets.huffingtonpost.com/*.png
+huffpost.com/images/*.png
+huffpost.com/images/*.gif
+brasilpost.com.br/*.png
+
+! dom
+brasilpost.com.br###wrapper > .group.main
+brasilpost.com.br###wrapper > .header
+brasilpost.com.br###carousel
+brasilpost.com.br###wrapper > .content > .group.blog-banner
+brasilpost.com.br###wrapper > .content > .group.main > .rail
+brasilpost.com.br###conversations-huffpost-web
+brasilpost.com.br###wrapper > .footer > footer
 
 ! Buzzfeed
 ! ------------------------------------------------------------------------------
