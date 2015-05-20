@@ -23,9 +23,19 @@ linkedin.com/cws/
 linkedin.com/uas/
 static.licdn.com/scds/concat/common/js
 
+! brightcove
+brightcove.com
+
+! wordpress.com
+wp.com
+@@wp.com/*.css
+
 ! disqus
 disqus.com
 disquscdn.com
+
+! livefyre
+livefyre.com
 
 ! twitter
 platform.twitter.com/widgets

@@ -1,0 +1,8 @@
+! Time
+! ------------------------------------------------------------------------------
+
+! dom
+time.com##.main-header
+time.com##.article-header > .article-sub-headline > .social-links
+time.com##.article-footer
+time.com###notTheHeader > .site-footer-nojs

@@ -23,9 +23,19 @@ linkedin.com/cws/
 linkedin.com/uas/
 static.licdn.com/scds/concat/common/js
 
+! brightcove
+brightcove.com
+
+! wordpress.com
+wp.com
+@@wp.com/*.css
+
 ! disqus
 disqus.com
 disquscdn.com
+
+! livefyre
+livefyre.com
 
 ! twitter
 platform.twitter.com/widgets
@@ -314,6 +324,15 @@ player.ooyala.com/*.js
 ! html
 player.ooyala.com/*.html
 
+
+! Time
+! ------------------------------------------------------------------------------
+
+! dom
+time.com##.main-header
+time.com##.article-header > .article-sub-headline > .social-links
+time.com##.article-footer
+time.com###notTheHeader > .site-footer-nojs
 
 ! Twitter
 ! ------------------------------------------------------------------------------
