@@ -18,7 +18,6 @@ jsuol.com.br/c/_template/v1/*.css
 uol.com.br/module/gera-modulos/*.css
 
 ! dom
-uol.com.br##header
 uol.com.br###menu-geral
 uol.com.br###.erro-e-comentar
 uol.com.br###.composto.com-destaque
