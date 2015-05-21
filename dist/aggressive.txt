@@ -28,8 +28,7 @@ static.licdn.com/scds/concat/common/js
 brightcove.com
 
 ! wordpress.com
-wp.com
-@@wp.com/*.css
+r-login.wordpress.com
 
 ! disqus
 disqus.com
@@ -79,6 +78,8 @@ amazonaws.com/web/static/visitor/scripts/pm.bootstrapper.js
 amazonaws.com/web/static/visitor/scripts/xrtml
 
 ! other
+sail-horizon.com
+aolcdn.com/os/aol/
 gigya.com
 chartbeat.com
 static.addtoany.com
@@ -187,6 +188,28 @@ folha.uol.com.br###news > .toolbar
 folha.uol.com.br##.menu2.container > .row > .span12 > .row > .span8 > .article.ads-livrariadafolha
 folha.uol.com.br##.menu2.container > .row > .span16 > .section-masthead
 folha.uol.com.br###footer
+
+
+! Fortune
+! ------------------------------------------------------------------------------
+
+! js
+fortune.com/js/
+timeinc.net/hat/js/time-hat.js
+
+! json
+api.onebot.timeinc.com
+
+! js, css, html
+timeinc.net/hat/
+
+! dom
+fortune.com##.main-header
+fortune.com###content > .stick.left-rail-container
+fortune.com###content > .content-well > div > .full-article > .post.article-inner > .article-body > .article-footer
+fortune.com###content > .content-well > div > .full-article > .post.article-inner > .article-divider
+fortune.com###content > .content-well > div > .full-article > .post.article-inner > .article-header > .article-byline > .article-social
+fortune.com###content > .content-well > div > .full-article > .post.article-inner > .article-body > .article-bottom > .right-rail > .right-rail-inner
 
 
 ! Jornal O Globo / G1
