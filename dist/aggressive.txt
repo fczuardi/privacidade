@@ -172,8 +172,10 @@ folha.com.br/*aside
 
 ! images
 folha.com.br/livraria
-f.i.uol.com.br
+f.i.uol.com.br/*.png
 @@f.i.uol.com.br/folha/colunas/images
+@@f.i.uol.com.br/*.jpeg
+
 
 ! dom
 folha.uol.com.br###top
@@ -181,6 +183,7 @@ folha.uol.com.br##.menu2.container > .span4
 folha.uol.com.br##.menu2.container > .row > .span4
 folha.uol.com.br##.menu2.container > .row > .span12 > .row > .span4
 folha.uol.com.br##.menu2.container > .row > .span12 > .row > .span8 > .toolbar
+folha.uol.com.br###news > .toolbar
 folha.uol.com.br##.menu2.container > .row > .span12 > .row > .span8 > .article.ads-livrariadafolha
 folha.uol.com.br##.menu2.container > .row > .span16 > .section-masthead
 folha.uol.com.br###footer
